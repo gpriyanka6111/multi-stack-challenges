@@ -4,5 +4,9 @@ quotes = ["The secret of getting ahead is getting started.",
           "Code every day, even if it's just 10mins.",
           "Progress over perfection.",
           "Small daily improvements lead to stunning results."]
-random_qoute = random.choice(quotes)
-print(random_qoute)
+if len(quotes) > 0:
+          random_qoute = random.choice(quotes)
+          print(random_qoute)
+else:
+          print("No quotes available! Add some first.")
+          
