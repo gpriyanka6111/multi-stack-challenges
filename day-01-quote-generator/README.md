@@ -1,6 +1,6 @@
-# Day 01-03: Python Quote Generator CLI
+# Day 01-03: Quote Generator CLI
 
-**Tech Stack:** 🐍 Python  
+**Tech Stack:** Python  
 **Start Date:** January 20, 2026  
 **End Date:** TBD (In Progress)  
 **Status:** 🚧 In Progress  
