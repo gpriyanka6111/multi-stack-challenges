@@ -1,0 +1,29 @@
+{
+  "quotes": [
+    {
+      "text": "The secret of getting ahead is getting started.",
+      "author": "Mark Twain",
+      "category": "motivation"
+    },
+    {
+      "text": "Code is like humor. When you have to explain it, it's bad.",
+      "author": "Cory House",
+      "category": "coding"
+    },
+    {
+      "text": "First, solve the problem. Then, write the code.",
+      "author": "John Johnson",
+      "category": "coding"
+    },
+    {
+      "text": "Learning never exhausts the mind.",
+      "author": "Leonardo da Vinci",
+      "category": "learning"
+    },
+    {
+      "text": "The only way to learn a new programming language is by writing programs in it.",
+      "author": "Dennis Ritchie",
+      "category": "learning"
+    }
+  ]
+}
