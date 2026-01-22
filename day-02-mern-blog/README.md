@@ -242,6 +242,17 @@ Deploy the `build` folder to platforms like:
 - [React Documentation](https://react.dev/)
 - [Node.js Documentation](https://nodejs.org/en/docs/)
 
+## 🔒 Security Considerations
+
+This is a learning/demonstration project. For production deployment, consider implementing:
+
+- **Rate Limiting**: Add rate limiting middleware (e.g., `express-rate-limit`) to prevent abuse of API endpoints
+- **Authentication**: Implement user authentication to protect create/edit/delete operations
+- **Input Validation**: Add comprehensive input validation and sanitization
+- **HTTPS**: Use HTTPS in production
+- **Environment Variables**: Never commit `.env` files; use secure secret management
+- **Database Security**: Use MongoDB authentication and limit database user permissions
+
 ## 🤝 Contributing
 
 Feel free to fork this project and submit pull requests!
